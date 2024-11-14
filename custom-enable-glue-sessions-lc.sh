@@ -63,10 +63,6 @@ echo "c.CondaKernelSpecManager.env_filter='anaconda3$|JupyterSystemEnv$|/R$'" >>
 
 EOF
 
-
-
-#!/bin/bash
-
 set -ex
 
 # OVERVIEW
